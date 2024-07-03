@@ -35,16 +35,16 @@ OCELOT,
 HORSE
 ]
 bad = [
-mobs.monster(CREEPER),
-mobs.monster(SKELETON),
-mobs.monster(ZOMBIE),
+mobs.monster(HOGLIN),
+mobs.monster(GUARDIAN),
+mobs.monster(PHANTOM),
+mobs.monster(HUSK),
 mobs.monster(SPIDER),
-mobs.monster(PIG_ZOMBIE),
-mobs.monster(SLIME),
-mobs.monster(ENDERMAN),
-mobs.monster(SILVERFISH),
-mobs.monster(CAVE_SPIDER),
-mobs.monster(GHAST),
-mobs.monster(LAVA_SLIME),
-mobs.monster(BLAZE)
+mobs.monster(EVOKER),
+mobs.monster(WITHER_SKELETON),
+mobs.monster(VEX),
+mobs.monster(WARDEN),
+mobs.monster(ZOGLIN),
+mobs.monster(VINDICATOR),
+mobs.monster(ELDER_GUARDIAN)
 ]
